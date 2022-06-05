@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaviAntunes
-- 👀 I’m interested in programation
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in programatio
+- 🌱 I’m currently learning Javasript
 - 💞️ I’m looking to collaborate on creation of websites
 
 <!---
